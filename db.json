@@ -514,7 +514,7 @@
   ],
   "users": [
     {
-      "email": "admin@laburguer.xyz",
+      "email": "admin@laburger.xyz",
       "password": "$2a$10$JABwR1UAtJqr2DCJ41ypMOgOqlh8eRXmTBO6DXfKG3ybxhABY4rey",
       "roles": {
         "admin": true
@@ -522,7 +522,7 @@
       "id": 1
     },
     {
-      "email": "mesero@laburguer.xyz",
+      "email": "mesero@laburger.xyz",
       "password": "$2a$10$JABwR1UAtJqr2DCJ41ypMOgOqlh8eRXmTBO6DXfKG3ybxhABY4rey",
       "roles": {
         "waiter": true
@@ -530,7 +530,7 @@
       "id": 2
     },
     {
-      "email": "chef@laburguer.xyz",
+      "email": "chef@laburger.xyz",
       "password": "$2a$10$JABwR1UAtJqr2DCJ41ypMOgOqlh8eRXmTBO6DXfKG3ybxhABY4rey",
       "roles": {
         "kitchen": true
